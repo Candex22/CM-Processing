@@ -143,19 +143,6 @@ size(800, 600);  // Ancho x Alto en píxeles
 
 ---
 
-## 📸 Capturas de Pantalla
-
-![Screenshot 1](capturas/captura_1.png)
-*Vista principal con las iniciales CM y elipses animadas*
-
-![Screenshot 2](capturas/captura_2.png)
-*Panel de instrucciones interactivo*
-
-![Screenshot 3](capturas/captura_3.png)
-*Colores cambiados mediante interacción del mouse*
-
----
-
 ## 🐛 Solución de Problemas
 
 ### Las imágenes no se cargan
